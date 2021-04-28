@@ -4,6 +4,6 @@ Part 2 of Sequencer is an implementation of a harmony comprising of four differe
 
 Written S1 2020
 
-Grade: 85
+Grade: 85 (HD)
 
 <https://cs.anu.edu.au/courses/comp2300/deliverables/02-sequencer/>
